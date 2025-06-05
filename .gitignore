@@ -4,3 +4,4 @@ __pycache__/
 .venv/
 data/certificados/docx/
 data/certificados/pdf/
+data/datos_certificados.xlsx
