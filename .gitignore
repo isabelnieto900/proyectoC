@@ -27,11 +27,11 @@ wheels/
 
 # Datos sensibles
 datos_certificados.xlsx
-/data/input/datos_certificados.xlsx
+
 
 # Certificados generados
+/data/certificados/
 /data/output/
-certificados_generados/
 
 # IDE
 .vscode/settings.json
