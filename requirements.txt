@@ -1,4 +1,5 @@
-pandas
-python-docx
+pandas>=1.3.0
+python-docx>=0.8.11
+openpyxl>=3.0.9
 docx2pdf
 pywin32
